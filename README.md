@@ -9,12 +9,12 @@ API RESTful para crear, leer, actualizar y eliminar usuarios en una base de dato
 
 ## Pre-requisitos
 
-- Tener instalado Node.js y MongoDB en tu máquina o usar un servicio en la nube como [Atlas] (https://www.mongodb.com/docs/atlas/).
+- Tener instalado Node.js y MongoDB en tu máquina o usar un servicio en la nube como [Atlas](https://www.mongodb.com/docs/atlas/).
 
 ## Instalación
 
 ```
-git clone http://github.com/
+git clone https://github.com/ceduar-sm/api-crud-auth.git
 ```
 
 ```
@@ -31,9 +31,9 @@ Para configurar el proyecto se debe modificar el archivo `config.js` que se encu
 
 ## Construido con
 
-- [Node.js] (https://nodejs.org/en/blog/release/v18.16.0)
-- [Express] (https://github.com/expressjs/express)
-- [MongoDB] (https://www.mongodb.com/)
+- [Node.js](https://nodejs.org/en/blog/release/v18.16.0) v.18.16.0
+- [Express](https://github.com/expressjs/express) v.4.18.2
+- [MongoDB](https://www.mongodb.com/) v.6.0.6
 
 ## Uso
 
@@ -53,4 +53,4 @@ La API expone las siguientes rutas:
 
 ## Autor
 
-- **César Sánchez** - _Codificación_ - [ceduar-sm] (https://github.com/ceduar-sm)
+- **César Sánchez** - _Codificación_ - [ceduar-sm](https://github.com/ceduar-sm)
